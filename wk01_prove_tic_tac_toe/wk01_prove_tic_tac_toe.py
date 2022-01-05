@@ -326,6 +326,6 @@ def checkerboard(a,b,c,d,e,f,g,h,i):
 
 
 
-if __name__ == main():
+if __name__ == "__main__":
     main()
    
